@@ -7,14 +7,10 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* Start Page
-![Pandemi Start Page](./PandemiWireFrame1.jpg)
-* Add Family Journal Entry
-![Pandemi Family Journal Entry](./PandemiWireframe2.jpg)
-* All Journal Entries
-![List Journal Entries](./PandemiWireframe3.jpg)
-* View One Family Journal Entry
-[One Entry](./PandemiWireframe4.jpg)
+* [Start Page](./PandemiWireFrame1.jpg)
+* [Add Family Journal Entry](./PandemiWireframe2.jpg)
+* [List Journal Entries](./PandemiWireframe3.jpg)
+* [View One Family Journal Entry](./PandemiWireframe4.jpg)
 
 
 ### Project Tracker

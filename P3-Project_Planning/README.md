@@ -10,8 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 * Start Page
 ![Pandemi Start Page](./PandemiWireFrame1.jpg)
 * Add Family Journal Entry
+![Pandemi Family Journal Entry](./PandemiWireframe2.jpg)
 * All Journal Entries
+![List Journal Entries](./PandemiWireframe3.jpg)
 * View One Family Journal Entry
+![One Entry](./PandemiWireframe2.jpg)
 
 
 ### Project Tracker

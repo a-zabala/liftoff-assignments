@@ -14,7 +14,7 @@ For this assignment, you'll create some initial plans for your project.
 * All Journal Entries
 ![List Journal Entries](./PandemiWireframe3.jpg)
 * View One Family Journal Entry
-![One Entry](./PandemiWireframe2.jpg)
+[One Entry](./PandemiWireframe4.jpg)
 
 
 ### Project Tracker

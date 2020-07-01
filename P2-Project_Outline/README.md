@@ -27,7 +27,7 @@ SQL Server Database
 How to define and use roles
 How to create different profiles within the same account
 Sharpen my knowledge of html to make the front end look better
-How to enter and store picures in the application by th user
+How to enter and store picures in the application by the user
 
 ### Project Tracker
 https://trello.com/b/269Piwma/pandemi
